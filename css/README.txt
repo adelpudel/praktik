@@ -1,6 +1,6 @@
 Ini Adalah Keterangan Proyek
 
 
-System requreiments :
+Kebutuhan Sistem :
 - PHP Versi 7 ke atas
-- MtSQL versi....
+- MySQL versi....
